@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Creality Print
+Comment=CrealityPrint slicer (V7.3.1.6378)
+Exec=/home/patrick/Programs/CrealityPrint/V7.3.1.6378/AppRun %F
+Icon=/home/patrick/Programs/CrealityPrint/V7.3.1.6378/usr/share/icons/hicolor/192x192/apps/CrealityPrint.png
+Type=Application
+Categories=Graphics;3DGraphics;Engineering;
+Terminal=false
+MimeType=model/stl;application/sla;

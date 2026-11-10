@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Antigravity
+Exec=/home/patrick/Programs/Antigravity/antigravity
+Icon=/home/patrick/Programs/Antigravity/icon2.png
+Terminal=false
+Categories=Development

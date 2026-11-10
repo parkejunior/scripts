@@ -1,0 +1,14 @@
+# Arquivos de backup e temporários
+*.bak
+*.tmp
+*~
+
+# Pacotes e binários pesados (caso baixados por engano nesta pasta)
+*.tar.gz
+*.tgz
+*.AppImage
+*.zip
+
+# Caches
+__pycache__/
+.cache/
